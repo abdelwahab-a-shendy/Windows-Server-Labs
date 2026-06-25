@@ -1,26 +1,28 @@
-# 🚀 Enterprise Infrastructure Simulation
+# Windows Server Administration Labs
 
-> > A structured collection of **hands-on labs** covering Windows Server administration, networking, and security in enterprise environments.
+> > A structured collection of hands-on Windows Server administration labs focused on Active Directory, Group Policy, infrastructure services, and enterprise management scenarios.
 
 <p align="center">
   <img src="Photos/Enterprise-Infrastructure-Simulation.png" alt="Project Banner" width="800">
 </p>
 
 ---
-## 📌 Overview
+##  Overview
 
-This repository is not a single project — it is a **collection of practical labs**, each focused on a specific real-world IT scenario.
+This repository contains a collection of practical Windows Server administration labs designed to simulate real-world enterprise environments.
 
-The goal is to simulate **enterprise-level tasks** that system administrators and security engineers deal with daily.
+Each lab focuses on a specific administrative task commonly performed by System Administrators and Infrastructure Engineers, providing hands-on experience in deploying, managing, securing, and troubleshooting Windows Server environments.
 
 ---
 ## 🎯 What You Will Find
 
-- 🖥️ Active Directory deployment & management
-- 🔐 Security hardening using Group Policy
-- 🌐 Networking fundamentals & routing
-- ⚙️ Infrastructure services (DHCP, DNS, IIS)
-- 🧠 Real-world administrative scenarios
+-  Active Directory deployment & administration
+-  User, Group, and OU management
+-  Security hardening using Group Policy
+-  Infrastructure services (DNS, DHCP, IIS, File Services)
+-  Delegated administration & least privilege
+-  Enterprise resource deployment using GPO
+-  Real-world administrative scenarios
 
 ---
 ## 🗂️ Labs Structure 
@@ -36,47 +38,37 @@ The goal is to simulate **enterprise-level tasks** that system administrators an
 | 05  | Domain Policies (Run + Wallpaper)    | Enforce environment-wide restrictions and standardization                    |
 
 ---
-
-### 🌐 Networking Labs
-
-|   |   |   |
-|---|---|---|
-|#|Lab Name|Key Concepts|
-|L1|Basic Connectivity|Ping & Troubleshooting|
-|L2|Subnetting (VLSM)|Network Segmentation|
-|L3|Router Configuration|CLI & Secure Access|
-|L4|DHCP|Automated IP Assignment|
-|L5|Static Routing|Route Control|
-|L6|RIP Protocol|Dynamic Routing|
-
----
 ## 🛠️ Technologies Used
 
 - Windows Server 2019 / 2022
-- Active Directory & Group Policy
-- Cisco Packet Tracer 
-- VMware Workstation / VirtualBox / KVM
+- Active Directory Domain Services (AD DS)
+- Group Policy (GPO)
+- DNS / DHCP / IIS / File Services
+- VMware / VirtualBox / KVM
 
 ---
 
 ## 🧠 Skills Demonstrated
 
-- Infrastructure Design
-- System Administration
-- Network Configuration
-- Security Policy Enforcement
+- Windows Server Administration
+- Active Directory Management
+- Group Policy Administration
+- Infrastructure Services Management
+- Security Hardening
+- Delegated Administration
+- Enterprise Policy Enforcement
 - Troubleshooting & Problem Solving
 
 ---
 
-## 📸 Lab Previews
+## Lab Previews
 
 **Enterprise Infrastructure (Full Lab)**
  <p align="center">
   <img src="Photos/Pasted%20image%2020260323054826.png" alt="Project Banner" width="800">
 </p>
 
-**🔐 AD Hardening & Compliance :**
+**AD Hardening & Compliance :**
  <p align="center">
   <img src="Photos/Pasted%20image%2020260318003441.png" alt="Project Banner" width="800">
 </p>
@@ -86,28 +78,18 @@ The goal is to simulate **enterprise-level tasks** that system administrators an
   <img src="Photos/Pasted%20image%2020250912032526.png" alt="Project Banner" width="800">
 </p>
 
-**👥 AD User Delegation :**
+**AD User Delegation :**
  <p align="center">
   <img src="Photos/Pasted%20image%2020250910030825.png" alt="Project Banner" width="800">
 </p>
 
-**🎯 Domain Policies (Run + Wallpaper) :**
+**Domain Policies (Run + Wallpaper) :**
  <p align="center">
   <img src="Photos/Pasted%20image%2020250908005227.png" alt="Project Banner" width="800">
 </p>
 
-**🌐 Subnetting Lab :**
- <p align="center">
-  <img src="Photos/Lab 2 Network.Subnetting Practical Example.jpg" alt="Project Banner" width="800">
-</p>
-
-**🌍 Static Routing Lab :**
- <p align="center">
-  <img src="Photos/Lab 5 Network.Static Routing Configuration.jpg" alt="Project Banner" width="800">
-</p>
-
 ---
-## 🤝 Contact
+##  Contact
 
 If you have any questions or feedback, feel free to reach out:
 
