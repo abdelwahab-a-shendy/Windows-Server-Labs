@@ -11,10 +11,14 @@
             "id": "dc724a4c92e2884e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0.Enterprise Infrastructure (Windows Server Full Lab)/1.Practical implementation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1.Practical implementation"
             }
           }
         ]
